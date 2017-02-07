@@ -1,0 +1,4 @@
+DML fayllari data bazada melumatlari idare etmek ucundur.
+1.Insert command:Cedvele melumat daxil etmek ucundur.
+2.Update command: Cedvele melumatlari yenilemek ucundur.
+3.Delete command: Cedvele her hansi bir melumati silmek ucundur.
